@@ -96,6 +96,7 @@ background-color: #f6c177;
     }
 }
 
+
 /* media query for mobile devices */
 @media screen and (min-width: 320px) and (max-width: 767px) {
 .container {
