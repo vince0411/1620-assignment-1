@@ -9,7 +9,7 @@ font-size: 22px;
 color: #2a273f;
 display: grid;
 grid-template-columns: repeat(12, 1fr);
-grid-template-rows: 7vh 90vh 5vh
+grid-template-rows: 10vh 90vh 5vh
 }
 
 .header {
@@ -84,7 +84,7 @@ font-size: 25px;
 color: #2a273f;
 display: grid;
 grid-template-columns: repeat(8, 2fr);
-grid-template-rows: 7vh 90vh 5vh
+grid-template-rows: 10vh 90vh 5vh
     }
 
 .slide {
@@ -103,7 +103,7 @@ font-size: 18px;
 color: #2a273f;
 display: grid;
 grid-template-columns: repeat(11, 1fr);
-grid-template-rows: 7vh 90vh 5vh
+grid-template-rows: 10vh 90vh 5vh
     }
 
 .slide {
